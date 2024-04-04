@@ -5,10 +5,7 @@ import SignupForm from './_root/pages/signupForm';
 import AuthLayout from './_auth/layout';
 import Dashboard from './_auth/pages/dashboard';
 
-
-
 function App() {
-
 
   return (
    <Routes>
