@@ -24,7 +24,7 @@ function Sidebar() {
 
     {/* Menu */}
     <div className="text-gray-500 text-lg font-serif cursor-pointer mr-8">
-      <div className="flex hover:bg-gray-950 mt-3 p-3 hover:text-red-600 rounded-e-full">
+      <div className="flex hover:bg-gray-950 mt-3 p-3 hover:text-red-600 rounded-r-full">
         <FontAwesomeIcon
           icon={faDashboard}
           className="fa-1x mr-1 bg-gray-950 p-2.5 rounded-full"
